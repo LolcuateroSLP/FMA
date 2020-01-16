@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/FMA/js/chunk-vendors.e4ee9074.js"
   },
   {
-    "revision": "086cc72b086af716bb3754a5f1dd6cfd",
+    "revision": "fe6d2b19f6828d9313786d931fd0b006",
     "url": "/FMA/index.html"
   },
   {
@@ -28,15 +28,15 @@ self.__precacheManifest = [
     "url": "/FMA/img/logo.png"
   },
   {
-    "revision": "3063bbd5442dfc4265c17bf261996408",
-    "url": "/FMA/OneSignalSDKUpdaterWorker.js"
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/FMA/robots.txt"
   },
   {
     "revision": "3063bbd5442dfc4265c17bf261996408",
     "url": "/FMA/OneSignalSDKWorker.js"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/FMA/robots.txt"
+    "revision": "3063bbd5442dfc4265c17bf261996408",
+    "url": "/FMA/OneSignalSDKUpdaterWorker.js"
   }
 ];
