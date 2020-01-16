@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/FMA/js/chunk-vendors.e4ee9074.js"
   },
   {
-    "revision": "fe6d2b19f6828d9313786d931fd0b006",
+    "revision": "ab4889cc809ada3d2b088085d691f689",
     "url": "/FMA/index.html"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = [
     "url": "/FMA/img/logo-wics.jpeg"
   },
   {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/FMA/robots.txt"
+  },
+  {
     "revision": "d2162f83731f2ea78106f353947925c4",
     "url": "/FMA/js/service-worker.js"
   },
   {
     "revision": "026e31639b4b647308d8169e08ef5ba6",
     "url": "/FMA/img/logo.png"
-  },
-  {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/FMA/robots.txt"
   },
   {
     "revision": "3063bbd5442dfc4265c17bf261996408",
