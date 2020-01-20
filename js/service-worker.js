@@ -5,6 +5,6 @@ workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 // workbox.routing.registerNavigationRoute("/")
-workbox.routing.registerNavigationRoute("/FM.3/index.html")
+workbox.routing.registerNavigationRoute("/index.html")
 
 workbox.routing.registerRoute(/^https?.*/, workbox.strategies.networkFirst(), 'GET')
