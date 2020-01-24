@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/FMA/js/chunk-vendors.fff3a631.js"
   },
   {
-    "revision": "535877f50039c0cb49a6196a5b7517cd",
-    "url": "/FMA/fonts/element-icons.535877f5.woff"
-  },
-  {
     "revision": "732389ded34cb9c52dd88271f1345af9",
     "url": "/FMA/fonts/element-icons.732389de.ttf"
+  },
+  {
+    "revision": "535877f50039c0cb49a6196a5b7517cd",
+    "url": "/FMA/fonts/element-icons.535877f5.woff"
   },
   {
     "revision": "143146fa24554ae2c5ac0a3982abb952",
@@ -52,14 +52,6 @@ self.__precacheManifest = [
     "url": "/FMA/img/logo-wics.jpeg"
   },
   {
-    "revision": "e73aeb0a61e6283ee45d7a84b7c085fd",
-    "url": "/FMA/img/LOGO-Interfil.png"
-  },
-  {
-    "revision": "5a97d29b1764adaff2c0463239924a60",
-    "url": "/FMA/img/LOGO-Interfil2.png"
-  },
-  {
     "revision": "8c4304de0901d324127a50dfb36908fa",
     "url": "/FMA/img/logo.png"
   },
@@ -68,8 +60,16 @@ self.__precacheManifest = [
     "url": "/FMA/js/service-worker.js"
   },
   {
+    "revision": "5a97d29b1764adaff2c0463239924a60",
+    "url": "/FMA/img/LOGO-Interfil2.png"
+  },
+  {
     "revision": "3063bbd5442dfc4265c17bf261996408",
     "url": "/FMA/OneSignalSDKUpdaterWorker.js"
+  },
+  {
+    "revision": "e73aeb0a61e6283ee45d7a84b7c085fd",
+    "url": "/FMA/img/LOGO-Interfil.png"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
